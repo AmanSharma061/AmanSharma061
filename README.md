@@ -4,7 +4,8 @@
 
 Welcome to my GitHub profile! I'm Aman S, a FullStack Web Developer currently pursuing a Bachelors of Technology at IIIT Bhubaneswar. I'm passionate about creating meaningful and innovative web applications.
 
-<img src="ai.jpg" alt="Developer Image" width="400" height="200">
+### 🎨
+![Developer Image](ai.jpg)
 
 ### 🚀 About Me
 
