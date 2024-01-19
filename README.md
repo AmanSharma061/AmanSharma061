@@ -1,5 +1,3 @@
-# Aman Sharma
-
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I'm Aman S, a FullStack Web Developer currently pursuing a Bachelors of Technology at IIIT Bhubaneswar. I'm passionate about creating meaningful and innovative web applications.
