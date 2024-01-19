@@ -1,4 +1,4 @@
-# Aman S
+# Aman Sharma
 
 ## 👋 Hello, World!
 
