@@ -3,7 +3,7 @@
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I'm Aman S, a FullStack Web Developer currently pursuing a Bachelors of Technology at IIIT Bhubaneswar. I'm passionate about creating meaningful and innovative web applications.
-
+![Developer Image](ai.jpg)
 ### 🚀 About Me
 
 - 🌍 I'm currently pursuing my B.Tech at IIIT Bhubaneswar.
@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm Aman S, a FullStack Web Developer currently pu
 
 Here are some technologies and tools I enjoy working with:
 
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js , Tailwind css , Shad cn 
 - **Backend:** Node.js, Express, MongoDB
-- **DevOps:** Docker, Kubernetes
 - **Other:** Git, VS Code, RESTful APIs
 
 ### 🌱 What I'm Working On
@@ -26,7 +25,7 @@ I'm currently focused on:
 
 - 🚀 Building an Events Management platform using Next.js.
 - 🌐 Exploring serverless architecture for scalable applications.
-- 🌱 Contributing to open-source projects that align with my interests.
+- 🌱 Creating  projects that align with my interests.
 
 ### 📫 Connect with Me
 
@@ -36,7 +35,7 @@ I'm currently focused on:
 
 ### 🎨
 
-![Developer Image](ai.jpg)
+
 
 ### 🤝 Open to Collaboration
 
