@@ -23,7 +23,7 @@ Here are some technologies and tools I enjoy working with:
 
 I'm currently focused on:
 
-- 🚀 Building a Course Management Platform using Next Js .
+- 🚀 Building an App for Home Services.
 - 🌐 Exploring serverless architecture for scalable applications.
 - 🌱 Creating  projects that align with my interests.
 
