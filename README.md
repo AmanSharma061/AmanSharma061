@@ -15,10 +15,11 @@ Welcome to my GitHub profile! I'm Aman S, a FullStack Web Developer currently pu
 Here are some technologies and tools I enjoy working with:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js , Tailwind css , Shad cn 
-- **Backend:** Node.js, Express, MongoDB
-- **Other:** Git, VS Code, RESTful APIs
+- **Backend:** Node.js, Express, MongoDB , RESTful APIs
+- **DevOps:** Docker CI/CD  
+- **Tools:** Git, VS Code
 
-![Developer Image](ai.jpg)
+
 ### 🌱 What I'm Working On
 
 I'm currently focused on:
